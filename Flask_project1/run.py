@@ -1,4 +1,4 @@
-from app import app
+from Flask_project1.app import app
 
 if __name__ == '__main__':
     app.run(debug=True)

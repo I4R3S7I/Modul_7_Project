@@ -1,4 +1,4 @@
-from app import app
+from Flask_project1.app import app
 
 @app.route('/hello')
 def hello():
